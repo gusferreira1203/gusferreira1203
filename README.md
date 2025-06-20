@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## About me
+Undergraduate student in Computer Science at the University of São Paulo (USP) <br/>
+Computer Technician from the Federal Institute of Santa Catarina (IFC) <br/>
+Aspiring game and web developer <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ferreira-50512535b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gusferreira1203@gmail.com) 
